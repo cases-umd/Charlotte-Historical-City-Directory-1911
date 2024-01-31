@@ -1,0 +1,162 @@
+LastName,First,Race,Middle,MaritalStatus,Spouse,Salutation,JobTitle,Company,Address,Dwelling
+Adams,Sallie,White,H,Single,no_val,no_val,assistant,Carnegie Library,707 north Church,house
+Abernethy,William,White,S,Married,Mamie,no_val,auto repair,no_val,409 west 11th,house
+Abernethy,James,White,F,Married,Alice,no_val,blacksmith,Trade Extension,Seversville,house
+Abernethy,Nettie,White,I,Single,no_val,no_val,bookkeeper,Pound & Moore Company,311 north College,house
+Abernathy,Lewis,African-American,no_val,Married,Annie,no_val,carpenter,no_val,422 west Hill,house
+Abernathy,Jonathan,White,W,Married,Nannie,no_val,carpenter,no_val,Sunnyside,house
+Alexander,Carson,African-American,no_val,no_val,no_val,no_val,chauffeur,J E S Davidson,209 south Middle,house
+Akers,Joseph,White,J,no_val,no_val,no_val,chief clerk superintendent,Southern Railway,908 south Tryon,house
+Alexander,Charles,White,F,Married,Mary,no_val,clerk,Post Office,308 east Worthington avenue,house
+Aldred,James,White,A,Married,Mattie,no_val,clerk,no_val,Seversville,house
+Albea,Lottie,White,no_val,Single,no_val,no_val,clerk,Floyd L Liles Company,10 west 11th,house
+Albright,Fay,White,L,no_val,no_val,no_val,clerk,no_val,15 south Caldwell,house
+Albright,Hal,White,C,no_val,no_val,no_val,clerk,Post Office,15 south Caldwell,house
+Alexander,Carl,White,L,no_val,no_val,no_val,clerk,no_val,200 east Oak,house
+Adams,Lafayette,White,N,no_val,no_val,no_val,clerk,Southern Railway,327 north Tryon,house
+Adams,Lula,White,no_val,Single,no_val,no_val,clerk,Belk Bros,Y W C A,rooms
+Adams,Jonathan,White,W,Married,Cora,no_val,conductor,Seaboard Air Line Railway,21st nr Caldwell,house
+Aikel,Joseph,White,no_val,no_val,no_val,no_val,confectioner,no_val,225 west Trade,rooms
+Agers,Nancy,African-American,no_val,no_val,no_val,no_val,cook,no_val,206 Wilson,house
+Adams,Bessie,African-American,no_val,no_val,no_val,no_val,cook,no_val,247 east Trade,no_val
+Adams,Joseph,African-American,no_val,Married,Violet,no_val,cooper,no_val,1011 south Church,house
+Alexander,Charles,White,L,Married,Sue,no_val,dentist,913-918 Realty Bldg,900 south Tryon,house
+Aaron,Amelia,African-American,no_val,no_val,no_val,no_val,domestic,no_val,506 south Tryon,no_val
+Alexander,Ephraim,White,no_val,Married,Alice,no_val,driver,Coles & Smith,Stonewall bet A & B,house
+Aiken,William,African-American,no_val,Married,Ella,no_val,driver,W I Henderson Gro Company,528 east 8th,house
+Adams,Edwd,African-American,no_val,Married,Mittie,no_val,driver,Rhyne Bros,305 west Palmer,house
+Alexander,Alfred,African-American,no_val,Married,Willie,no_val,driver,no_val,1016 east 3d,house
+Adams,Rufus,African-American,no_val,no_val,no_val,no_val,driver,Stand I & F Company,Ross Town,house
+Abernathy,Clement,White,E,Married,Cora,no_val,employee,Charlotte Lea Belt Company,1117 south Tryon,house
+Abernethy,Thomas,White,J,Married,Lucy,no_val,employee,City of Asheville,414 Templeton avenue,house
+Alexander,Clarence,White,W,no_val,no_val,no_val,employee,J M Porter,1116 south Tryon,house
+Alexain,Nicholas,White,no_val,no_val,no_val,no_val,employee,Metropolitan Cafe,26 north Tryon,rooms
+Adams,William,White,E,no_val,no_val,no_val,employee,The Chronicle,300 1/2 south Church,rooms
+Aldred,William,White,L,Married,Marian,Rev,evangelist,no_val,Seversville,house
+Abernethy,Gertrude,White,no_val,Single,no_val,no_val,fitter,Little-Long Company,306 west 7th,house
+Alexander,Albert,White,W,Married,Alice,no_val,foreman,Charlotte Cordage Company,621 east 5th,house
+Alexander,Andrew,African-American,no_val,Married,Bessie,no_val,grocer,no_val,514 east Stonewall,house
+Alexander,Eli,African-American,no_val,Married,Jennie,no_val,grocer,Oil Town,900 south Tryon,house
+Adams,Reuben,African-American,no_val,Married,Belle,no_val,laborer,Y & B Company,419 west 2d,house
+Adams,Henry,African-American,no_val,Married,Dicie,no_val,laborer,no_val,308 Middle,house
+Aiken,Walter,African-American,no_val,Married,Ella,no_val,laborer,no_val,600 east 2d,house
+Alexander,Calvin,African-American,no_val,Married,Emeline,no_val,laborer,no_val,213 1/2 west 1st,house
+Alexander,Daniel,African-American,no_val,Married,Etta,no_val,laborer,no_val,527 east 8th,house
+Alexander,Allen,African-American,no_val,Married,Lizzie,no_val,laborer,no_val,6 10th st alley,house
+Alexander,Edward,African-American,no_val,Married,Louvenia,no_val,laborer,no_val,1012 east Stonewall,house
+Adams,Jonathan,African-American,no_val,no_val,no_val,no_val,laborer,no_val,1031 south Church,house
+Abel,George,African-American,no_val,no_val,no_val,no_val,laborer,no_val,12 Boundary alley,house
+Alexander,Charles,African-American,no_val,no_val,no_val,no_val,laborer,no_val,410 north A,house
+Abernathy,Joseph,African-American,no_val,no_val,no_val,no_val,laborer,no_val,422 west Hill,house
+Adams,Rufus,African-American,no_val,no_val,no_val,no_val,laborer,no_val,Greenville,house
+Alexander,Alvey,African-American,no_val,no_val,no_val,no_val,laborer,no_val,Lutheran st,house
+Adkins,King,African-American,no_val,no_val,no_val,no_val,laborer,no_val,600 south Myers,no_val
+Agers,Sallie,African-American,no_val,no_val,no_val,no_val,laundress,no_val,420 Jackson,house
+Adams,Kate,African-American,no_val,no_val,no_val,no_val,laundress,no_val,Groveton,house
+Alexander,Elizabeth,African-American,no_val,no_val,no_val,no_val,laundress,no_val,414 south College,room in house
+Alexander,Arnold,White,E,Married,Alice,no_val,laundryman,no_val,1424 east 5th,house
+Adkins,Walter,White,D,Married,Leona E,no_val,lineman,no_val,305 east 13th,room in house
+Aldred,Curtis,White,M,Married,Victoria,no_val,machinist,no_val,Seversville,house
+Abernethy,W,White,Leslie,no_val,no_val,no_val,machinist,W S Abernethy,409 west 11th,house
+Haywood,Lola,White,no_val,no_val,no_val,no_val,madam,no_val,1 Spring,house
+Smith,Gertrude,White,no_val,no_val,no_val,no_val,madam,no_val,10 Spring,house
+Wilson,Minnie,White,no_val,no_val,no_val,no_val,madam,no_val,11 Spring,house
+Brown,Mabel,White,no_val,no_val,no_val,no_val,madam,no_val,15 Spring,house
+Gilbert,Georgia,White,no_val,no_val,no_val,no_val,madam,no_val,16 Spring,house
+Alexander,Blanche,White,no_val,no_val,no_val,no_val,madam,no_val,17 Spring,house
+Jackson,Hattie,White,no_val,no_val,no_val,no_val,madam,no_val,18 Spring,house
+Wise,Myrtle,White,no_val,no_val,no_val,no_val,madam,no_val,2 Spring,house
+West,Kitty,White,no_val,no_val,no_val,no_val,madam,no_val,209 east Boundary,house
+Allen,Annie,White,no_val,no_val,no_val,no_val,madam,no_val,3 Spring,house
+Brown,Pauliney,White,no_val,no_val,no_val,no_val,madam,no_val,4 Young's alley,house
+Clark ,Bessie,White,no_val,no_val,no_val,no_val,madam,no_val,505 south Davidson,house
+Edwards,Dora,White,no_val,no_val,no_val,no_val,madam,no_val,508 south Davidson,house
+Wilson,Maude,White,no_val,no_val,no_val,no_val,madam,no_val,509 south Davidson,house
+Young,Alice,White,no_val,no_val,no_val,no_val,madam,no_val,510 south Davidson,house
+Smith,Blanche ,White,no_val,no_val,no_val,no_val,madam,no_val,511 south Davidson,house
+Harris,Pauline,White,no_val,no_val,no_val,no_val,madam,no_val,6 Spring,house
+Kent,Lillie,White,no_val,no_val,no_val,no_val,madam,no_val,7 Spring,house
+Morris,Delia,White,no_val,no_val,no_val,no_val,madam,no_val,7 Young's alley,house
+Martin,Mabel,White,no_val,no_val,no_val,no_val,madam,no_val,804 east 1st,house
+Nash,Ruby,White,no_val,no_val,no_val,no_val,madam,no_val,805 east 1st,house
+Sufan,Jennie,White,no_val,no_val,no_val,no_val,madam,no_val,806 east 1st,house
+Copeland,Carrie,African-American,no_val,no_val,no_val,no_val,madam,no_val,807 1/2 east 1st,house
+Malone,Allie,White,no_val,no_val,no_val,no_val,madam,no_val,807 east 1st,house
+McCall,Mary,White,no_val,no_val,no_val,no_val,madam,no_val,808 east 1st,house
+Penley,Mamie,White,no_val,no_val,no_val,no_val,madam,no_val,809 east 1st,house
+Wilson ,Ethel,White,no_val,no_val,no_val,no_val,madam,no_val,813 east 1st,house
+Lovelace,Evelyn,White,no_val,no_val,no_val,no_val,madam,no_val,Young's alley,house
+Thurston,Rena,White,no_val,no_val,no_val,no_val,madam,no_val,Young's alley,house
+Adams,Belle,African-American,no_val,no_val,no_val,no_val,maid,Realty Bldg,419 west 2d,house
+Adams,James,White,no_val,Married,Gertrude,no_val,manager,no_val,419 Elizabeth avenue,house
+Adams,Compton,White,no_val,Married,Cora,no_val,mill head,no_val,Elizabeth Mills,house
+Adams,Laurie,White,A,Married,Margaret N,no_val,mill head,no_val,Elizabet Mills,house
+Adelsheimer,Henry,White,S,Married,Lizzie,no_val,mill worker,no_val,1216 Louise avenue,house
+Adcock,Jonathan,White,F,no_val,no_val,no_val,mill worker,no_val,916 Calvine avenue,house
+Alexander,Blandina,White,no_val,Single,no_val,no_val,milliner,J B Ivey Company,610 north Graham ext,house
+Adams,Wheeler,White,F,Married,Mamie,no_val,moulder,no_val,303 south Cedar,house
+Alderman,Elizabeth,White,no_val,Single,no_val,no_val,nurse,Charlotte Sanatorium,12 west 7th,rooms
+Alexander,Edna,White,no_val,Single,no_val,no_val,nurse,St Peters Hospital,515 east 1st,rooms in house
+Albright,Judson,White,D,Married,Belle C,no_val,officer,US Internal Revenue,15 south Caldwell,house
+Abernethy,J,White,Lee,Married,Ida,no_val,painter,no_val,Seversville,house
+Alexander,Clyde,White,C,no_val,no_val,no_val,painter,no_val,810 north Brevard,house
+Alexander,Annie,White,L,Single,no_val,no_val,physician,no_val,610 north Graham ext,house
+Alexander,Decatur,African-American,C,Married,Alta,no_val,porter,Colonial Club,515 east 1st,house
+Adams,Berry,African-American,A,Married,Edith,no_val,porter,W S Cramer,Seversville,house
+Adams,Leland,African-American,no_val,no_val,no_val,no_val,porter,J P Stowe & Company,403 south Myers,house
+Alexander,Burdette,African-American,no_val,no_val,no_val,no_val,porter,Colonial Club,no_val,no_val
+Alexander,Bernard,African-American,no_val,no_val,no_val,no_val,porter,Young's Steam Baking Company,no_val,no_val
+Adams,Jonathan,White,J,no_val,no_val,no_val,president,Adams G & P Company and Char Pepsi-Cola Company,309 east 6th,house
+Albea,Jonathan,White,C,no_val,no_val,no_val,pressman,News Printing Company,310 south McDowell,house
+Adams,Henry,White,L,Married,Fannie S,no_val,route agent,Southern Railway Company,327 north Tryon,house
+Abernethy,Lillian,White,no_val,Single,no_val,no_val,saleslady,Efird's Dept Store,Seversville,house
+Abernethy,E,White,Glenn,no_val,no_val,no_val,salesman,Burwell & Dunn Company,409 west 11th,house
+Adams,Lawrence,White,A,no_val,no_val,no_val,salesman,B S Moore & Company,405 south Tryon,rooms
+Adams,Violet,African-American,no_val,no_val,no_val,no_val,servant,no_val,508 west Trade,no_val
+Adams,Pattie,White,V,Single,no_val,no_val,stenographer,no_val,708 north Caldwell,boards
+Abernethy,Connie,White,no_val,Single,no_val,no_val,stenographer,Burwell & Dunn Company,414 Templeton avenue,house
+Alexander,Annie,White,no_val,Single,no_val,no_val,stenographer,C M Stieff,610 north Graham ext,house
+Adams,Dorothy,White,no_val,Single,no_val,no_val,stenographer,Oconee Mills Company,Y W C A,rooms
+Aiken,George,White,W M,Married,Barbara,no_val,superintendent,Queen City M & G Wks,1120 south Caldwell,house
+Abbey,Simeon,White,A,Married,Mary A,no_val,superintendent construction,General Fire Extension Company,104 Central avenue,house
+Ahaus,Herman,White,no_val,Married,Frances E,no_val,tailor,no_val,204 south Church,house
+Adams,George,White,no_val,no_val,no_val,no_val,tailor,Henry Miller Jr,15 s Church,boards
+Adams,Anna,African-American,no_val,no_val,no_val,no_val,teacher,no_val,1021 south Church,house
+Adams,Jane,African-American,no_val,no_val,no_val,no_val,teacher,no_val,1021 south Church,house
+Alexander,Charles,White,Y,no_val,no_val,no_val,teacher,King's Business College,305 south Church,rooms
+Abee,Junius,White,A,no_val,no_val,no_val,telegraph operator,Southern Railway,507 north Graham,boards
+Abel,Abram,White,no_val,Married,Fannie,no_val,traveling salesman,no_val,506 west 10th,house
+Adams,Major,African-American,no_val,no_val,no_val,no_val,waiter,Buford Hotel,no_val,no_val
+Abernathy,David,White,M,Married,Enola,no_val,no_val,no_val,1310 east 4t ext,house
+Adams,M,White,Grace,Married,George O,no_val,no_val,no_val,601 north College,house
+Albea,S,White,Emma,Widow,J F,no_val,no_val,no_val,310 south McDowell,house
+Abernethy,Margaret,White,K,Widow,James C,no_val,no_val,no_val,3 east 1st,house
+Adcock,Millie,White,M,Widow,James M,no_val,no_val,no_val,916 Calvine avenue,house
+Adams,Joseph,White,Q,Married,Leslie,Rev,no_val,no_val,1509 south Boulevard,house
+Abraham,William,White,no_val,Married,Lula,no_val,no_val,no_val,516 south College,house
+Adams,M,White,Luther,Married,Mamie,no_val,no_val,no_val,Groveton,house
+Albrecht,Gesha,White,no_val,Widow,Mathias,no_val,no_val,no_val,402 Elizabet avenue,house
+Abernathy,Cora,White,no_val,Married,no_val,no_val,no_val,no_val,1117 south Tryon,boards
+Alexander,Emma,White,V,Widow,William S,no_val,no_val,no_val,610 north Graham ext,house
+Aldridge,Millie,White,S,Widow,Wm A,no_val,no_val,no_val,Harrill st Belmont Park,house
+Alexander,Bessie,African-American,no_val,no_val,no_val,no_val,no_val,no_val,1006 east 1st,house
+Abel,Belle,African-American,no_val,no_val,no_val,no_val,no_val,no_val,14 Boundary alley,house
+Abbott,Margaret,White,no_val,Single,no_val,no_val,no_val,no_val,1804 south Boulevard,house
+Adams,Lizzie,African-American,no_val,no_val,no_val,no_val,no_val,no_val,309 1/2 west Morehead,house
+Abernathy,Hannah,African-American,no_val,no_val,no_val,no_val,no_val,no_val,4 Bellinger,house
+Adams,Beulah,White,no_val,Single,no_val,no_val,no_val,no_val,419 Elizabeth avenue,house
+Abernathy,Elizabeth,White,no_val,Single,no_val,no_val,no_val,no_val,430 Mint,house
+Alexander,Ellen,White,no_val,no_val,no_val,no_val,no_val,no_val,606 south McDowell,house
+Adams,Julia,White,M,Single,no_val,no_val,no_val,no_val,707 north Church,house
+Adams,Rosa,African-American,no_val,no_val,no_val,no_val,no_val,no_val,714 south Caldwell,house
+Adams,Mattie,African-American,no_val,no_val,no_val,no_val,no_val,no_val,719 north Graham ext,house
+Alexander,Eleanor,White,no_val,Single,no_val,no_val,no_val,no_val,900 south Tryon,house
+Alexander,Adelaide,African-American,no_val,no_val,no_val,no_val,no_val,no_val,910 (909) east 1st,house
+Abernethy,J,White,S,no_val,no_val,Dr,no_val,no_val,Beatty's Ford road,house
+AIexander,Carrie,African-American,no_val,no_val,no_val,no_val,no_val,no_val,Gaither's alley,house
+Abernathy,C,White,L,no_val,no_val,no_val,no_val,no_val,Lawyer's road,house
+Alexander,Adeline,African-American,no_val,no_val,no_val,no_val,no_val,no_val,Lutheran st,house
+Alexander,C,White,P,no_val,no_val,no_val,no_val,no_val,Providence road,house
+Alexander,Andrew,African-American,W,no_val,no_val,no_val,no_val,no_val,415 north Myers,rooms
+Abernethy,Mildred,White,no_val,Single,no_val,no_val,no_val,no_val,603 north Davidson,rooms
+Aiken,Henry,White,no_val,no_val,no_val,no_val,no_val,no_val,9 east 3d,rooms

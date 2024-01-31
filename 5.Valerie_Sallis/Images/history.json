@@ -1,0 +1,882 @@
+[
+  {
+    "op": "core/column-addition",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "Housing",
+          "expression": "value.split(' ')",
+          "columnName": "Housing",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Tryon",
+                "l": "Tryon"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "baseColumnName": "Housing",
+    "expression": "grel:cells[\"Housing\"].value",
+    "onError": "set-to-blank",
+    "newColumnName": "Street Direction",
+    "columnInsertIndex": 13,
+    "description": "Create column Street Direction at index 13 based on column Housing using expression grel:cells[\"Housing\"].value"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "Housing",
+          "expression": "value.split(' ')",
+          "columnName": "Housing",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Tryon",
+                "l": "Tryon"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "Street Direction",
+    "expression": "grel:value",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Street Direction using expression grel:value"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "Housing",
+          "expression": "value.split(' ')",
+          "columnName": "Housing",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Tryon",
+                "l": "Tryon"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "Housing",
+          "expression": "value.split(' ')",
+          "columnName": "Housing",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "s",
+                "l": "s"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "Street Direction",
+    "expression": "grel:value.replace(/[^...]/,\"South\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Street Direction using expression grel:value.replace(/[^...]/,\"South\")"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "Housing",
+          "expression": "value.split(' ')",
+          "columnName": "Housing",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Tryon",
+                "l": "Tryon"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "Housing",
+          "expression": "value.split(' ')",
+          "columnName": "Housing",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "n",
+                "l": "n"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "Street Direction",
+    "expression": "grel:value.replace(/[^...]/,\"North\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Street Direction using expression grel:value.replace(/[^...]/,\"North\")"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "Street Direction",
+    "description": "Remove column Street Direction"
+  },
+  {
+    "op": "core/column-addition",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "Housing",
+          "expression": "value.split(' ')",
+          "columnName": "Housing",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "7th",
+                "l": "7th"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "baseColumnName": "Housing",
+    "expression": "grel:cells[\"Housing\"].value",
+    "onError": "set-to-blank",
+    "newColumnName": "Street Direction",
+    "columnInsertIndex": 13,
+    "description": "Create column Street Direction at index 13 based on column Housing using expression grel:cells[\"Housing\"].value"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "Housing",
+          "expression": "value.split(' ')",
+          "columnName": "Housing",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "7th",
+                "l": "7th"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "Housing",
+          "expression": "value.split(' ')",
+          "columnName": "Housing",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "e",
+                "l": "e"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "Street Direction",
+    "expression": "grel:value.replace(/[^...]/,\"East\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Street Direction using expression grel:value.replace(/[^...]/,\"East\")"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "Housing",
+          "expression": "value.split(' ')",
+          "columnName": "Housing",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "7th",
+                "l": "7th"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "Housing",
+          "expression": "value.split(' ')",
+          "columnName": "Housing",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "w",
+                "l": "w"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "Street Direction",
+    "expression": "grel:value.replace(/[^...]/,\"West\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Street Direction using expression grel:value.replace(/[^...]/,\"West\")"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "Street Direction",
+    "description": "Remove column Street Direction"
+  },
+  {
+    "op": "core/column-addition",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "Housing",
+          "expression": "value.split(' ')",
+          "columnName": "Housing",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Davidson",
+                "l": "Davidson"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "baseColumnName": "Housing",
+    "expression": "grel:cells[\"Housing\"].value",
+    "onError": "set-to-blank",
+    "newColumnName": "Street Direction",
+    "columnInsertIndex": 13,
+    "description": "Create column Street Direction at index 13 based on column Housing using expression grel:cells[\"Housing\"].value"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "Housing",
+          "expression": "value.split(' ')",
+          "columnName": "Housing",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Davidson",
+                "l": "Davidson"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "Housing",
+          "expression": "value.split(' ')",
+          "columnName": "Housing",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "n",
+                "l": "n"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "Street Direction",
+    "expression": "grel:value.replace(/[^...]/,\"North\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Street Direction using expression grel:value.replace(/[^...]/,\"North\")"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "Housing",
+          "expression": "value.split(' ')",
+          "columnName": "Housing",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Davidson",
+                "l": "Davidson"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "Housing",
+          "expression": "value.split(' ')",
+          "columnName": "Housing",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "s",
+                "l": "s"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "Street Direction",
+    "expression": "grel:value.replace(/[^...]/,\"South\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Street Direction using expression grel:value.replace(/[^...]/,\"South\")"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "Street Direction",
+    "description": "Remove column Street Direction"
+  },
+  {
+    "op": "core/column-addition",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "Housing",
+          "expression": "value.split(' ')",
+          "columnName": "Housing",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Graham",
+                "l": "Graham"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "baseColumnName": "Housing",
+    "expression": "grel:cells[\"Housing\"].value",
+    "onError": "set-to-blank",
+    "newColumnName": "Street Direction",
+    "columnInsertIndex": 13,
+    "description": "Create column Street Direction at index 13 based on column Housing using expression grel:cells[\"Housing\"].value"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "Housing",
+          "expression": "value.split(' ')",
+          "columnName": "Housing",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Graham",
+                "l": "Graham"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "Housing",
+          "expression": "value.split(' ')",
+          "columnName": "Housing",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "n",
+                "l": "n"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "Street Direction",
+    "expression": "grel:value.replace(/[^...]/,\"North\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Street Direction using expression grel:value.replace(/[^...]/,\"North\")"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "Housing",
+          "expression": "value.split(' ')",
+          "columnName": "Housing",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Graham",
+                "l": "Graham"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "Housing",
+          "expression": "value.split(' ')",
+          "columnName": "Housing",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "s",
+                "l": "s"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "Street Direction",
+    "expression": "grel:value.replace(/[^...]/,\"South\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Street Direction using expression grel:value.replace(/[^...]/,\"South\")"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "Street Direction",
+    "description": "Remove column Street Direction"
+  },
+  {
+    "op": "core/column-addition",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "Housing",
+          "expression": "value.split(' ')",
+          "columnName": "Housing",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "2d",
+                "l": "2d"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "baseColumnName": "Housing",
+    "expression": "grel:cells[\"Housing\"].value",
+    "onError": "set-to-blank",
+    "newColumnName": "Street Direction",
+    "columnInsertIndex": 13,
+    "description": "Create column Street Direction at index 13 based on column Housing using expression grel:cells[\"Housing\"].value"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "Housing",
+          "expression": "value.split(' ')",
+          "columnName": "Housing",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "2d",
+                "l": "2d"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "Housing",
+          "expression": "value.split(' ')",
+          "columnName": "Housing",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "e",
+                "l": "e"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "Street Direction",
+    "expression": "grel:value.replace(/[^...]/,\"East\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Street Direction using expression grel:value.replace(/[^...]/,\"East\")"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "Housing",
+          "expression": "value.split(' ')",
+          "columnName": "Housing",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "2d",
+                "l": "2d"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "Housing",
+          "expression": "value.split(' ')",
+          "columnName": "Housing",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "w",
+                "l": "w"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "Street Direction",
+    "expression": "grel:value.replace(/[^...]/,\"West\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Street Direction using expression grel:value.replace(/[^...]/,\"West\")"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "Street Direction",
+    "description": "Remove column Street Direction"
+  },
+  {
+    "op": "core/column-addition",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "Housing",
+          "expression": "value.split(' ')",
+          "columnName": "Housing",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Trade",
+                "l": "Trade"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "baseColumnName": "Housing",
+    "expression": "grel:cells[\"Housing\"].value",
+    "onError": "set-to-blank",
+    "newColumnName": "Street Direction",
+    "columnInsertIndex": 13,
+    "description": "Create column Street Direction at index 13 based on column Housing using expression grel:cells[\"Housing\"].value"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "Housing",
+          "expression": "value.split(' ')",
+          "columnName": "Housing",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Trade",
+                "l": "Trade"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "Street Direction",
+          "expression": "value.split(' ')",
+          "columnName": "Street Direction",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "w",
+                "l": "w"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "Street Direction",
+    "expression": "grel:value.replace(/[^...]/,\"West\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Street Direction using expression grel:value.replace(/[^...]/,\"West\")"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "Housing",
+          "expression": "value.split(' ')",
+          "columnName": "Housing",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Trade",
+                "l": "Trade"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "Street Direction",
+          "expression": "value.split(' ')",
+          "columnName": "Street Direction",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "e",
+                "l": "e"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "Street Direction",
+    "expression": "grel:value.replace(/[^...]/,\"East\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Street Direction using expression grel:value.replace(/[^...]/,\"East\")"
+  }
+]

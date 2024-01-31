@@ -1,0 +1,49 @@
+﻿PersonID,LastName,First,Race,Middle,MaritalStatus,Spouse,MarriedTo,Salutation,JobTitle,Company,Address,Dwelling
+1,Adams,Sallie,White,H,Single,NULL,,NULL,assistant,Carnegie Library,707 north Church,house
+2,Abernethy,William,White,S,Married,Mamie,3,NULL,auto repair,NULL,409 west 11th,house
+3,Abernethy,Mamie,NULL,NULL,Married,William,,NULL,NULL,NULL,409 west 11th,house
+4,Abernethy,James,White,F,Married,Alice,5,NULL,blacksmith,Trade Extension,Seversville,house
+5,Abernethy,Alice,NULL,NULL,Married,James,,NULL,NULL,NULL,Seversville,house
+6,Abernethy,Nettie,White,I,Single,NULL,,NULL,bookkeeper,Pound & Moore Company,311 north College,house
+7,Abernathy,Lewis,African-American,NULL,Married,Annie,8,NULL,carpenter,NULL,422 west Hill,house
+8,Abernathy,Annie,NULL,NULL,Married,Lewis,,NULL,NULL,NULL,422 west Hill,house
+9,Abernathy,Jonathan,White,W,Married,Nannie,10,NULL,carpenter,NULL,Sunnyside,house
+10,Abernathy,Nannie,NULL,NULL,Married,Jonathan,,NULL,NULL,NULL,Sunnyside,house
+11,Alexander,Carson,African-American,NULL,NULL,NULL,,NULL,chauffeur,J E S Davidson,209 south Middle,house
+12,Akers,Joseph,White,J,NULL,NULL,,NULL,chief clerk superintendent,Southern Railway,908 south Tryon,house
+13,Alexander,Charles,White,F,Married,Mary,14,NULL,clerk,Post Office,308 east Worthington avenue,house
+14,Alexander,Mary,NULL,NULL,Married,Charles,,NULL,NULL,NULL,308 east Worthington avenue,house
+15,Aldred,James,White,A,Married,Mattie,16,NULL,clerk,NULL,Seversville,house
+16,Aldred,Mattie,NULL,NULL,Married,James,,NULL,NULL,NULL,Seversville,house
+17,Albea,Lottie,White,NULL,Single,NULL,,NULL,clerk,Floyd L Liles Company,10 west 11th,house
+18,Albright,Fay,White,L,NULL,NULL,,NULL,clerk,NULL,15 south Caldwell,house
+19,Albright,Hal,White,C,NULL,NULL,,NULL,clerk,Post Office,15 south Caldwell,house
+20,Alexander,Carl,White,L,NULL,NULL,,NULL,clerk,NULL,200 east Oak,house
+21,Adams,Lafayette,White,N,NULL,NULL,,NULL,clerk,Southern Railway,327 north Tryon,house
+22,Adams,Lula,White,NULL,Single,NULL,,NULL,clerk,Belk Bros,Y W C A,rooms
+23,Adams,Jonathan,White,W,Married,Cora,24,NULL,conductor,Seaboard Air Line Railway,21st nr Caldwell,house
+24,Adams,Cora,NULL,NULL,Married,Jonathan,,NULL,NULL,NULL,21nd nr Caldwell,house
+25,Aikel,Joseph,White,NULL,NULL,NULL,,NULL,confectioner,NULL,225 west Trade,rooms
+26,Agers,Nancy,African-American,NULL,NULL,NULL,,NULL,cook,NULL,206 Wilson,house
+27,Adams,Bessie,African-American,NULL,NULL,NULL,,NULL,cook,NULL,247 east Trade,NULL
+28,Adams,Joseph,African-American,NULL,Married,Violet,29,NULL,cooper,NULL,1011 south Church,house
+29,Adams,Violet,NULL,NULL,Married,Joseph,,NULL,NULL,NULL,1011 south Church,house
+30,Alexander,Charles,White,L,Married,Sue,31,NULL,dentist,913-918 Realty Bldg,900 south Tryon,house
+31,Alexander,Sue,NULL,NULL,Married,Charles,,NULL,NULL,NULL,900 south Tryon,house
+32,Aaron,Amelia,African-American,NULL,NULL,NULL,,NULL,domestic,NULL,506 south Tryon,NULL
+33,Alexander,Ephraim,White,NULL,Married,Alice,34,NULL,driver,Coles & Smith,Stonewall bet A & B,house
+34,Alexander,Alice,NULL,NULL,Married,Ephraim,,NULL,NULL,NULL,Stonewall bet A & B,house
+35,Aiken,William,African-American,NULL,Married,Ella,36,NULL,driver,W I Henderson Gro Company,528 east 8th,house
+36,Aiken,Ella,NULL,NULL,Married,William,,NULL,NULL,NULL,528 east 8th,house
+37,Adams,Edwd,African-American,NULL,Married,Mittie,38,NULL,driver,Rhyne Bros,305 west Palmer,house
+38,Adams,Mittie,NULL,NULL,Married,Edwd,,NULL,NULL,NULL,305 west Palmer,house
+39,Alexander,Alfred,African-American,NULL,Married,Willie,39,NULL,driver,NULL,1016 east 3d,house
+40,Alexander,Willie,NULL,NULL,Married,Alfred,,NULL,NULL,NULL,1016 east 3d,house
+41,Adams,Rufus,African-American,NULL,NULL,NULL,,NULL,driver,Stand I & F Company,Ross Town,house
+42,Abernathy,Clement,White,E,Married,Cora,43,NULL,employee,Charlotte Lea Belt Company,1117 south Tryon,house
+43,Abernathy,Cora,NULL,NULL,Married,Clement,,NULL,NULL,NULL,1117 south Tryon,house
+44,Abernethy,Thomas,White,J,Married,Lucy,45,NULL,employee,City of Asheville,414 Templeton avenue,house
+45,Abernethy,Lucy,NULL,NULL,Married,Thomas,,NULL,NULL,NULL,414 Templeton avenue,house
+46,Alexander,Clarence,White,W,NULL,NULL,,NULL,employee,J M Porter,1116 south Tryon,house
+47,Alexain,Nicholas,White,NULL,NULL,NULL,,NULL,employee,Metropolitan Cafe,26 north Tryon,rooms
+48,Adams,William,White,E,NULL,NULL,,NULL,employee,The Chronicle,300 1/2 south Church,rooms
